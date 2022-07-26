@@ -3,7 +3,7 @@
 - 🌱 I’m currently at Imperial College London, studying Engineering
 - 💞️ I’m looking to collaborate on anything that I'm interested in!
 - 📫 How to reach me: harry.schlote@gmail.com or 
-- 👀 Take a look at my engineering project at www.harryschlote.com
+- 👀 Take a look at my engineering projects at www.harryschlote.com
 
 <!---
 harryschlote/harryschlote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
