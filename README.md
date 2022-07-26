@@ -2,7 +2,7 @@
 - 👀 I’m interested in systematic trading, machine learning and systems design optimisation!
 - 🌱 I’m currently at Imperial College London, studying Engineering
 - 💞️ I’m looking to collaborate on anything that I'm interested in!
-- 📫 How to reach me: harry.schlote@gmail.com or 
+- 📫 How to reach me: harry.schlote@gmail.com
 - 👀 Take a look at my engineering projects at www.harryschlote.com
 
 <!---
